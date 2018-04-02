@@ -1,2 +1,2 @@
-# MySpider
+# MySpider (Python)
 Python Spider
